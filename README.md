@@ -27,7 +27,7 @@ Each operation has a corresponding method that performs the operation and stores
 To use this package, import it in your Go code:
 
 ```go
-import "path/to/byte32"
+go get "github.com/cosmic-butterfly/byte32
 ```
 
 Then, you can create a new `Byte32` and use its methods:
